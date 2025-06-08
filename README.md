@@ -11,7 +11,7 @@ Cultural StoryWeaver is a GenAI-powered storytelling app that generates cultural
 
 ## 🚀 Demo
 
-Watch a step-by-step demo here: *[(Upload your demo video and paste the YouTube or Drive link)](https://drive.google.com/file/d/1TC4YdK3KnAa4xq4Nwg2xvpXpNXJMeyL_/view?usp=sharing)*
+Watch a demo how it works: *(https://drive.google.com/file/d/1TC4YdK3KnAa4xq4Nwg2xvpXpNXJMeyL_/view?usp=sharing)*
 
 ## 🛠️ Tech Stack
 
