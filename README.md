@@ -1,6 +1,6 @@
 # 🌍 Cultural StoryWeaver
 
-Cultural StoryWeaver is a GenAI-powered storytelling app that generates culturally rich children's stories with moral values using Google's cutting-edge AI tools.
+Cultural StoryWeaver is a GenAI-powered storytelling app that generates imaginative culturally rich children's stories with moral values using Google's cutting-edge AI tools.
 
 ## ✨ Features
 
