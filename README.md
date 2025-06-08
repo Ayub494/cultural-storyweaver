@@ -26,11 +26,9 @@ pip install streamlit vertexai
 ```
 
 ## ▶️ Running the App in Google Colab
-
-1. Upload your `service-account.json` to Colab.
-2. Run all setup cells (install libraries, write app, authenticate).
-3. Use `localtunnel` to tunnel and expose the app.
-4. Click the public URL to open your Streamlit app.
+1. Run all setup cells (install libraries, write app, authenticate).1
+2. Use `localtunnel` to tunnel and expose the app.
+3. Click the public URL to open your Streamlit app.
 
 ## 📝 Project Description
 
